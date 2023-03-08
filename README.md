@@ -23,5 +23,5 @@ To use the calculator, do the following:
 3. Poof! There is your answer!
 
 #### You can see the expected usage here:
-![Screenshot] (/assets/images/screenshot.png)
+![Screenshot](/assets/images/screenshot.png)
 
